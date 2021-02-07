@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\iot-app"
+		},
+		{
+			"path": "..\\..\\OneDrive\\Documentos\\PlatformIO\\Projects\\esp-arduino-mqtt"
+		},
+		{
+			"path": "..\\socketio"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
